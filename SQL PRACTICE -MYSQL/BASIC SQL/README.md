@@ -1,10 +1,7 @@
-
-.
-
-📘 Description
+# 📘 Description
 This repository contains a well-structured and comprehensive set of SQL practice problems and solutions, designed to help learners understand the practical usage of SQL for handling real-world datasets. It serves as a learning guide, revision reference, and interview preparation tool for database fundamentals.
 
-📚 What You Will Learn
+# 📚 What You Will Learn
 This repository walks through a wide range of topics in SQL, starting from basics to more advanced query techniques:
 
 🔹 1. Creating Tables
@@ -69,7 +66,7 @@ Creating readable and calculated columns using aliases
 
 Performing arithmetic operations in queries
 
-📁 Practice Scenarios Included
+# 📁 Practice Scenarios Included
 The queries revolve around commonly used datasets in business and academics, including:
 
 🧑‍💼 Employee records (name, salary, department)
@@ -92,7 +89,7 @@ Filtering orders based on city or date
 
 Grouping sales by region
 
-🎯 Who Should Use This?
+# 🎯 Who Should Use This?
 This SQL practice repository is ideal for:
 
 Students working on database assignments or lab practice
@@ -105,7 +102,7 @@ Software developers integrating databases in apps
 
 Job seekers preparing for SQL-based interviews or exams
 
-💻 How to Practice
+# 💻 How to Practice
 You can copy and run the SQL queries in any of the following tools:
 
 MySQL Workbench
